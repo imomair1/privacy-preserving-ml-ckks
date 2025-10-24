@@ -1,5 +1,7 @@
-Privacy-Preserving Machine Learning Inference using Homomorphic Encryption (CKKS)
-Abstract
+**Privacy-Preserving Machine Learning Inference using Homomorphic Encryption (CKKS)
+**
+
+**Abstract**
 
 Data privacy is a critical concern in machine learning, especially in scenarios where users rely on remote services to perform inferences on sensitive data
 arxiv.org
